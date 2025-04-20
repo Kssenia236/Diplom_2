@@ -2,6 +2,7 @@ import requests
 import allure
 from typing import Dict, Optional
 
+#for test
 
 class ApiClient:
     def __init__(self):
